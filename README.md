@@ -2,10 +2,10 @@
 
 A feature-rich web application that generates AI-powered images from text prompts using Hugging Face's Stable Diffusion models. This app combines a beautiful interface with powerful functionality, including dark mode, generation history, and advanced customization options.
 
-![App Screenshot](!![image](https://github.com/user-attachments/assets/d0d549f6-10a3-406b-bdb5-aee055056c28)
-))
-![App Screenshot](!![image](https://github.com/user-attachments/assets/f67cfad6-2351-4761-bf62-a3acfc1964a4)
-))
+![App Screenshot - Light Mode](![Screenshot 2025-06-20 102914](https://github.com/user-attachments/assets/a1890b2a-83ca-444f-89ca-ed3443267633)
+) 
+![App Screenshot - Dark Mode](![Screenshot 2025-06-20 102833](https://github.com/user-attachments/assets/f79c01da-3008-49a4-ab08-1a9cd989f732)
+) 
 
 ## 🌟 Features
 
